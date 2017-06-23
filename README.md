@@ -5,4 +5,6 @@ These data and R scripts are made available in accordance with the data access p
 
 If you wish to use these data in your own analyses please contact the original authors and cite appropriately.
 
-corresponding email - lewiscampbell90@gmail.com
+Raw data = demodat1.1(incNA).csv
+
+Corresponding email - lewiscampbell90@gmail.com
